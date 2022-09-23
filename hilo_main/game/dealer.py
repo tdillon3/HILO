@@ -160,7 +160,7 @@ class Dealer:
         Args:
             self (Dealer): an instance of Dealer.
         """
-        print('Game Over')
+        print('\n\tGAME OVER\n')
 
 
     def output(self):
